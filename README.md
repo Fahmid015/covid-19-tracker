@@ -1,3 +1,6 @@
+# To view the Webapp, visit the following link:
+https://covid-19-tracker-c11ba.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
